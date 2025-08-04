@@ -34,5 +34,5 @@ This project is an in-depth Exploratory Data Analysis (EDA) on the Titanic datas
 
 
 ## Author
--Utsav Thapaliya
+- Utsav Thapaliya
 - Data Science Intern at Coding Samurai
