@@ -29,10 +29,6 @@ This project is an in-depth Exploratory Data Analysis (EDA) on the Titanic datas
 - Violin plots, histograms, countplots
 - Correlation heatmap
 
-## Dataset
-- [Titanic dataset from Kaggle](https://www.kaggle.com/datasets/brendan45774/titanic)
-
-
 ## Author
 - Utsav Thapaliya
 - Data Science Intern at Coding Samurai
